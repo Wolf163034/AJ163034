@@ -1,1 +1,3 @@
-# AJ163034
+Adam
+AJ163034
+Grupa C2
